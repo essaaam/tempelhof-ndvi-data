@@ -1,0 +1,1091 @@
+{
+    "type": "FeatureCollection",
+    "columns": {
+      "NDVI": "Object",
+      "month": "Float",
+      "system:index": "String",
+      "year": "Float"
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "0",
+        "properties": {
+          "NDVI": 0.02181673355667432,
+          "month": 1,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "1",
+        "properties": {
+          "NDVI": 0.3429759943430383,
+          "month": 2,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "2",
+        "properties": {
+          "NDVI": 0.46251431083522815,
+          "month": 3,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "3",
+        "properties": {
+          "NDVI": 0.3525744081834486,
+          "month": 4,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "4",
+        "properties": {
+          "NDVI": 0.7031361457334877,
+          "month": 5,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "5",
+        "properties": {
+          "NDVI": 0.7320134240292878,
+          "month": 6,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "6",
+        "properties": {
+          "NDVI": 0.052014765933079944,
+          "month": 7,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "7",
+        "properties": {
+          "NDVI": 0.4083027596461035,
+          "month": 8,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "8",
+        "properties": {
+          "NDVI": 0.36650489243006196,
+          "month": 9,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "9",
+        "properties": {
+          "NDVI": 0.5022048916019082,
+          "month": 10,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "10",
+        "properties": {
+          "NDVI": -0.020446465443855175,
+          "month": 11,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "11",
+        "properties": {
+          "NDVI": 0.5971837322926787,
+          "month": 12,
+          "year": 2016
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "12",
+        "properties": {
+          "NDVI": -0.013313243571436015,
+          "month": 1,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "13",
+        "properties": {
+          "NDVI": 0.11829451188090583,
+          "month": 2,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "14",
+        "properties": {
+          "NDVI": 0.01041442166880826,
+          "month": 3,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "15",
+        "properties": {
+          "NDVI": 0.21277936773853176,
+          "month": 4,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "16",
+        "properties": {
+          "NDVI": 0.533139285255494,
+          "month": 5,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "17",
+        "properties": {
+          "NDVI": 0.5866126178548231,
+          "month": 6,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "18",
+        "properties": {
+          "NDVI": 0.5593391336193685,
+          "month": 7,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "19",
+        "properties": {
+          "NDVI": 0.3408228694131588,
+          "month": 8,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "20",
+        "properties": {
+          "NDVI": 0.5480547656489854,
+          "month": 9,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "21",
+        "properties": {
+          "NDVI": 0.2842861928667154,
+          "month": 10,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "22",
+        "properties": {
+          "NDVI": -0.023245972053559046,
+          "month": 11,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "23",
+        "properties": {
+          "NDVI": null,
+          "month": 12,
+          "year": 2017
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "24",
+        "properties": {
+          "NDVI": 0.07298730704725497,
+          "month": 1,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "25",
+        "properties": {
+          "NDVI": 0.47597036056419006,
+          "month": 2,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "26",
+        "properties": {
+          "NDVI": 0.29006883158706365,
+          "month": 3,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "27",
+        "properties": {
+          "NDVI": 0.6035606150710211,
+          "month": 4,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "28",
+        "properties": {
+          "NDVI": 0.7666580009387925,
+          "month": 5,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "29",
+        "properties": {
+          "NDVI": 0.1752588700666303,
+          "month": 6,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "30",
+        "properties": {
+          "NDVI": 0.3957875300914998,
+          "month": 7,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "31",
+        "properties": {
+          "NDVI": 0.2899893793309032,
+          "month": 8,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "32",
+        "properties": {
+          "NDVI": 0.20835237172531773,
+          "month": 9,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "33",
+        "properties": {
+          "NDVI": 0.18042967680133778,
+          "month": 10,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "34",
+        "properties": {
+          "NDVI": 0.1609566412551062,
+          "month": 11,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "35",
+        "properties": {
+          "NDVI": null,
+          "month": 12,
+          "year": 2018
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "36",
+        "properties": {
+          "NDVI": 0.12352568142166452,
+          "month": 1,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "37",
+        "properties": {
+          "NDVI": 0.4551141923284617,
+          "month": 2,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "38",
+        "properties": {
+          "NDVI": 0.1819892005623561,
+          "month": 3,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "39",
+        "properties": {
+          "NDVI": 0.4318134492620185,
+          "month": 4,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "40",
+        "properties": {
+          "NDVI": 0.7320801102245963,
+          "month": 5,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "41",
+        "properties": {
+          "NDVI": 0.5142165676958419,
+          "month": 6,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "42",
+        "properties": {
+          "NDVI": 0.1952511179655105,
+          "month": 7,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "43",
+        "properties": {
+          "NDVI": 0.38188056606134746,
+          "month": 8,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "44",
+        "properties": {
+          "NDVI": 0.34812816144907965,
+          "month": 9,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "45",
+        "properties": {
+          "NDVI": 0.6667958557158962,
+          "month": 10,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "46",
+        "properties": {
+          "NDVI": 0.4339093473060015,
+          "month": 11,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "47",
+        "properties": {
+          "NDVI": 0.37394230930937833,
+          "month": 12,
+          "year": 2019
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "48",
+        "properties": {
+          "NDVI": 0.46175539543661676,
+          "month": 1,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "49",
+        "properties": {
+          "NDVI": -0.0055701512285982495,
+          "month": 2,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "50",
+        "properties": {
+          "NDVI": 0.4079948220994775,
+          "month": 3,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "51",
+        "properties": {
+          "NDVI": 0.6857250828482815,
+          "month": 4,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "52",
+        "properties": {
+          "NDVI": 0.29468624672373217,
+          "month": 5,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "53",
+        "properties": {
+          "NDVI": 0.4675541920755617,
+          "month": 6,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "54",
+        "properties": {
+          "NDVI": 0.3251925507390754,
+          "month": 7,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "55",
+        "properties": {
+          "NDVI": 0.2952125224855873,
+          "month": 8,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "56",
+        "properties": {
+          "NDVI": 0.6496382127273788,
+          "month": 9,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "57",
+        "properties": {
+          "NDVI": 0.34674913169624066,
+          "month": 10,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "58",
+        "properties": {
+          "NDVI": 0.011590616950338754,
+          "month": 11,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "59",
+        "properties": {
+          "NDVI": 0.7725621545933072,
+          "month": 12,
+          "year": 2020
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "60",
+        "properties": {
+          "NDVI": 0.2579242087396189,
+          "month": 1,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "61",
+        "properties": {
+          "NDVI": 0.2414618191297107,
+          "month": 2,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "62",
+        "properties": {
+          "NDVI": 0.44548782649482405,
+          "month": 3,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "63",
+        "properties": {
+          "NDVI": 0.1801097355741505,
+          "month": 4,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "64",
+        "properties": {
+          "NDVI": 0.25460335973363196,
+          "month": 5,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "65",
+        "properties": {
+          "NDVI": 0.07832860647372951,
+          "month": 6,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "66",
+        "properties": {
+          "NDVI": 0.3430239355819315,
+          "month": 7,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "67",
+        "properties": {
+          "NDVI": 0.30845486345837725,
+          "month": 8,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "68",
+        "properties": {
+          "NDVI": 0.3577119510992441,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "69",
+        "properties": {
+          "NDVI": 0.45150561172897863,
+          "month": 10,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "70",
+        "properties": {
+          "NDVI": 0.38977062034073057,
+          "month": 11,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "71",
+        "properties": {
+          "NDVI": null,
+          "month": 12,
+          "year": 2021
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "72",
+        "properties": {
+          "NDVI": 0.290095268245188,
+          "month": 1,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "73",
+        "properties": {
+          "NDVI": 0.16145075013087742,
+          "month": 2,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "74",
+        "properties": {
+          "NDVI": 0.4686294454509701,
+          "month": 3,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "75",
+        "properties": {
+          "NDVI": 0.3701714637843911,
+          "month": 4,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "76",
+        "properties": {
+          "NDVI": 0.6221680677726091,
+          "month": 5,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "77",
+        "properties": {
+          "NDVI": 0.19446647139848636,
+          "month": 6,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "78",
+        "properties": {
+          "NDVI": 0.21545592532727764,
+          "month": 7,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "79",
+        "properties": {
+          "NDVI": 0.27870612718922305,
+          "month": 8,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "80",
+        "properties": {
+          "NDVI": 0.6433234176086072,
+          "month": 9,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "81",
+        "properties": {
+          "NDVI": 0.32352535764129703,
+          "month": 10,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "82",
+        "properties": {
+          "NDVI": 0.7580384195574509,
+          "month": 11,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "83",
+        "properties": {
+          "NDVI": null,
+          "month": 12,
+          "year": 2022
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "84",
+        "properties": {
+          "NDVI": 0.5507372774891758,
+          "month": 1,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "85",
+        "properties": {
+          "NDVI": 0.21464458362701858,
+          "month": 2,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "86",
+        "properties": {
+          "NDVI": -0.005444563927488709,
+          "month": 3,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "87",
+        "properties": {
+          "NDVI": 0.7034231933709293,
+          "month": 4,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "88",
+        "properties": {
+          "NDVI": 0.5485215499944125,
+          "month": 5,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "89",
+        "properties": {
+          "NDVI": 0.26958902380517347,
+          "month": 6,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "90",
+        "properties": {
+          "NDVI": 0.2898362663440133,
+          "month": 7,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "91",
+        "properties": {
+          "NDVI": 0.11936730681714314,
+          "month": 8,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "92",
+        "properties": {
+          "NDVI": 0.40825664619644664,
+          "month": 9,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "93",
+        "properties": {
+          "NDVI": 0.3914375166042702,
+          "month": 10,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "94",
+        "properties": {
+          "NDVI": 0.29248770537443053,
+          "month": 11,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "95",
+        "properties": {
+          "NDVI": -0.04909593724680048,
+          "month": 12,
+          "year": 2023
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "96",
+        "properties": {
+          "NDVI": 0.3780482612840221,
+          "month": 1,
+          "year": 2024
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "97",
+        "properties": {
+          "NDVI": 0.3254677040159909,
+          "month": 2,
+          "year": 2024
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "98",
+        "properties": {
+          "NDVI": 0.3887498019690757,
+          "month": 3,
+          "year": 2024
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "99",
+        "properties": {
+          "NDVI": 0.2997208455995488,
+          "month": 4,
+          "year": 2024
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "100",
+        "properties": {
+          "NDVI": 0.4203087769830989,
+          "month": 5,
+          "year": 2024
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "101",
+        "properties": {
+          "NDVI": 0.20188871213897108,
+          "month": 6,
+          "year": 2024
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "102",
+        "properties": {
+          "NDVI": 0.31262553832476664,
+          "month": 7,
+          "year": 2024
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "103",
+        "properties": {
+          "NDVI": 0.47098438198654907,
+          "month": 8,
+          "year": 2024
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "104",
+        "properties": {
+          "NDVI": 0.4442294238755462,
+          "month": 9,
+          "year": 2024
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "105",
+        "properties": {
+          "NDVI": null,
+          "month": 10,
+          "year": 2024
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "106",
+        "properties": {
+          "NDVI": null,
+          "month": 11,
+          "year": 2024
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": null,
+        "id": "107",
+        "properties": {
+          "NDVI": null,
+          "month": 12,
+          "year": 2024
+        }
+      }
+    ]
+  }
